@@ -22,8 +22,15 @@
 
 ## 課程簡介
 
-1. Vibe Coding 簡介
-2. 從頭開始開發一個LINE Bot，並且整合Google Gemini API，讓LINE Bot能夠回應使用者的問題
+### 1. Vibe Coding 簡介
+
+課程投影片: 
+
+[Vibe Coding 細說從頭](https://www.canva.com/design/DAGychtqqg8/PGN1A0xbTlES1QfA9KO76w/edit?utm_content=DAGychtqqg8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+[Vibe Coding 馬上動手](https://www.canva.com/design/DAG4pc2tpAw/wrvFnTgEEjyeRq7hQarLbw/edit?utm_content=DAG4pc2tpAw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
+### 2. 從頭開始開發一個LINE Bot，並且整合Google Gemini API，讓LINE Bot能夠回應使用者的問題
 
 ## 課程目標
 - 課前準備
