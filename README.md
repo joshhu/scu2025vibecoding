@@ -4,7 +4,9 @@
 
 1. 程式問題提問，請在[Issues](https://github.com/joshhu/scu2025vibecoding)上提問，並且提供程式碼，錯誤訊息，以及問題描述，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/10)的提問格式。
 
-* 金鑰名稱為求符合PEP命名標準，統一使用下列格式：
+2. 本課程Slido互動平台：(https://app.sli.do/event/4nYstWYXJsXEMmSHXkBCeY)
+
+3. 金鑰名稱為求符合PEP命名標準，統一使用下列格式：
     - LINE的channel secret：`LINE_CHANNEL_SECRET`
     - LINE的channel access token：`LINE_CHANNEL_ACCESS_TOKEN`
     - Ngrok的authtoken：`NGROK_AUTHTOKEN`
@@ -26,8 +28,7 @@
 
 課程投影片: 
 
-[Vibe Coding 細說從頭](https://www.canva.com/design/DAGychtqqg8/PGN1A0xbTlES1QfA9KO76w/edit?utm_content=DAGychtqqg8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
-[Vibe Coding 馬上動手](https://www.canva.com/design/DAG4pc2tpAw/wrvFnTgEEjyeRq7hQarLbw/edit?utm_content=DAG4pc2tpAw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+[Vibe Coding立即開始動手](https://www.canva.com/design/DAGychtqqg8/rvhb_kyPZHJqg8ZpGEDxEw/view?utm_content=DAGychtqqg8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h22f7f0021c)
 
 
 ### 2. 從頭開始開發一個LINE Bot，並且整合Google Gemini API，讓LINE Bot能夠回應使用者的問題
@@ -57,9 +58,6 @@
 - 2025/12/09
 - 2025/12/16
 
-## 線上互動Slido連結
- 本課程Slido互動平台：(https://app.sli.do/event/4nYstWYXJsXEMmSHXkBCeY)
- 
 ## 教材內容
 - `Codes`: 課程範例程式
 - `Ref`: 課程參考資料
