@@ -1,5 +1,10 @@
 # 東吳大學資科系2025年下半年Vibe Coding/LINE Bot實作課程
 
+## 更新事項
+
+1. A、B 兩班第一次上課之投影片已上傳到 Slides 目錄，檔名為 `Vibe Coding立即開始動手.pdf`。
+2. LINE 建立 Messaing API 的步驟放在 Issues 的 [Issue #1](https://github.com/joshhu/scu2025vibecoding/issues/1)。
+
 ## 注意事項
 
 1. 程式問題提問，請在[Issues](https://github.com/joshhu/scu2025vibecoding)上提問，並且提供程式碼，錯誤訊息，以及問題描述，參考[這邊](https://github.com/joshhu/sculinebot2024/issues/10)的提問格式。
@@ -59,6 +64,6 @@
 - 2025/12/16
 
 ## 教材內容
-- `Codes`: 課程範例程式
+- `Code`: 課程範例程式
 - `Ref`: 課程參考資料
 - `Slides`: 課程投影片
