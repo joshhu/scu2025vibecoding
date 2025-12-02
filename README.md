@@ -1,5 +1,10 @@
 # 東吳大學資科系2025年下半年Vibe Coding/LINE Bot實作課程
 
+同學先追蹤我的臉書帳號，每天會有3-5篇科技及AI相關的貼文
+
+![Facebook Profile](2025_12_02_10_28_53_1.jpg)
+
+
 ## 更新事項
 
 1. A、B 兩班第一次上課之投影片已上傳到 Slides 目錄，檔名為 `Vibe Coding立即開始動手.pdf`。
