@@ -20,7 +20,7 @@
     - LINE的channel secret：`LINE_CHANNEL_SECRET`
     - LINE的channel access token：`LINE_CHANNEL_ACCESS_TOKEN`
     - Ngrok的authtoken：`NGROK_AUTHTOKEN`
-    - Google Gemini 的API key：`GOOGLE_GEMINI_API_KEY`
+    - Google Gemini 的API key：`GEMINI_API_KEY`
 
 ## 課前準備
 1. Google帳號，在Colab上執行程式
